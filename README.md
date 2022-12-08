@@ -494,7 +494,7 @@ CVPR 2021. [[PDF](https://arxiv.org/abs/2012.12890)] [[Project](https://anr-avat
 
 **SMPLpix: Neural Avatars from 3D Human Models.**<br>
 *Sergey Prokudin, Michael J. Black, Javier Romero.*<br>
-WACV 2021. [[PDF](https://arxiv.org/abs/2008.06872)] [[Github](https://github.com/sergeyprokudin/smplpix)]
+WACV 2021. [[PDF](https://arxiv.org/abs/2008.06872)] [[Github](https://github.com/sergeyprokudin/smplpix)] [[Colab](https://colab.research.google.com/github/sergeyprokudin/smplpix/blob/main/colab_notebooks/Convert_Video_to_SMPLpix_Dataset.ipynb)(https://colab.research.google.com/github/sergeyprokudin/smplpix/blob/main/colab_notebooks/SMPLpix_training.ipynb)]
 
 **Synthetic Training for Monocular Human Mesh Recovery.**<br>
 *Yu Sun, Qian Bao, Wu Liu, Wenpeng Gao, Yili Fu, Chuang Gan, Tao Mei.*<br>
