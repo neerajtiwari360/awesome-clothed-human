@@ -60,8 +60,8 @@ NeurIPS 2022. [[PDF](https://neurips.cc/Conferences/2022/ScheduleMultitrack?even
 *[Qiao Feng](https://fengq1a0.github.io/), [Yebin Liu](http://www.liuyebin.com/), [Yu-Kun Lai](https://users.cs.cf.ac.uk/Yukun.Lai/), [Jingyu Yang](http://seea.tju.edu.cn/info/1015/1608.htm), [Kun Li](http://cic.tju.edu.cn/faculty/likun/).*<br>
 NeurIPS 2022. [[PDF](https://arxiv.org/abs/2206.02194)] [[Project](http://cic.tju.edu.cn/faculty/likun/projects/FOF/)] [[Github](https://github.com/fengq1a0/FOF)]
 
-Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces
-Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao
+- [ ] **Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces**<br>
+[Yihao Zhi], [Shenhan Qian], [Xinhao Yan], [Shenghua Gao]<br>
 3DV 2022. [[PDF](https://arxiv.org/abs/2208.14851)] [[Github](https://github.com/zyhbili/Dual-Space-NeRF)]
 
 - [ ] **Neural Point-based Shape Modeling of Humans in Challenging Clothing.**<br>
