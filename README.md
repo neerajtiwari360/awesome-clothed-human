@@ -182,7 +182,7 @@ CVPR 2022. [[PDF](https://arxiv.org/abs/2106.03798)] [[Project](http://www.liuye
 
 **I M Avatar: Implicit Morphable Head Avatars from Videos.**<br>
 *Yufeng Zheng, Victoria Fernández Abrevaya, Xu Chen, Marcel C. Bühler, Michael J. Black, Otmar Hilliges.*<br>
-CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07471)]
+CVPR 2022. [[PDF](https://arxiv.org/abs/2112.07471)] [[Project](https://ait.ethz.ch/projects/2022/IMavatar/)] [[Github](https://github.com/zhengyuf/IMavatar)]
 
 **Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis.**<br>
 *Tianhan Xu, Yasuhiro Fujita, Eiichi Matsumoto.*<br>
