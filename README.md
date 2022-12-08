@@ -41,7 +41,7 @@ Highavenue: Turn yourself into a 3D model.
 
 ## 3D Clothed Human Generation
 
-**EVA3D: Compositional 3D Human Generation from 2D Image Collections.**<br>
+- [ ] **EVA3D: Compositional 3D Human Generation from 2D Image Collections.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io/), [Zhaoxi Chen](https://frozenburning.github.io/), [Yushi Lan](https://github.com/NIRVANALAN), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN), [Ziwei Liu](https://liuziwei7.github.io/).*<br>
 arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz16.github.io/projects/EVA3D.html)] [[Github]()]
 
@@ -49,7 +49,7 @@ arxiv 2022. [[PDF](https://arxiv.org/abs/2210.04888)] [[Project](https://hongfz1
 
 [Project Splinter](https://project-splinter.github.io/): Human Digitalization with Implicit Representation.
 
-**TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies.**<br>
+- [ ] **TotalSelfScan: Learning Full-body Avatars from Self-Portrait Videos of Faces, Hands, and Bodies.**<br>
 *[Junting Dong](https://jtdong.com/), [Qi Fang](https://raypine.github.io/), Yudong Guo, Sida Peng, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
 NeurIPS 2022. [[PDF](https://neurips.cc/Conferences/2022/ScheduleMultitrack?event=55337)] [[Data](http://jtdong.com/)]
 
